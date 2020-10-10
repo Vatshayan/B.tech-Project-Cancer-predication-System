@@ -1,5 +1,7 @@
 # Prostate Cancer Prediction Using Machine learning 
 
+This Project Can be used in B.tech/B.E Colleges students for Minor and Major project work. 
+
 97 Men Data has been taken that tells about the level of prostate-specfic antigen and also a number of clinical measures 
 Study is about the relationship between the prostate-specific antigen (psa) and the clinical measures standing for predictor variables. 
 
